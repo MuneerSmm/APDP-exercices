@@ -1,0 +1,7 @@
+input csv file
+categorize product
+using sort algorithm to quantity
+
+
+how can i add a new product into this
+
